@@ -6,27 +6,27 @@ The aim of this repo is to **practice consistently**, **improve problem-solving 
 ---
 
 ## 📌 Course Roadmap  
+### 📘 Topics Covered 
 
-The A2Z DSA Course is structured step by step, starting from basics and going all the way up to advanced concepts.  
-
-### Topics Covered:
-1. **Learn the basics**
-2. **Learn the important sorting techniques**
-3. **Arrays**
-4. **Binary Search**
-5. **Strings**
-6. **Linked List**
-7. **Recursion**
-8. **Bit manipulation**
-9. **Stack and Queues**
-10. **sliding window and two pointer**
-11. **Heap**
-12. **Binary trees**
-13. **Binary search trees**
-14. **Graphs**
-15. **Dynamic Programming**
-16. **Trie**
-17. **Strings Advanced**
+| #  | Topic                             |
+|----|-----------------------------------|
+| 1  | Learn the Basics                  |
+| 2  | Learn the Important Sorting Techniques |
+| 3  | Arrays                            |
+| 4  | Binary Search                     |
+| 5  | Strings                           |
+| 6  | Linked List                       |
+| 7  | Recursion                         |
+| 8  | Bit Manipulation                  |
+| 9  | Stack and Queues                  |
+| 10 | Sliding Window and Two Pointer    |
+| 11 | Heap                              |
+| 12 | Binary Trees                      |
+| 13 | Binary Search Trees               |
+| 14 | Graphs                            |
+| 15 | Dynamic Programming               |
+| 16 | Trie                              |
+| 17 | Strings Advanced                  |
 
 ---
 
