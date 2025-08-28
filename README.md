@@ -1,4 +1,4 @@
-# Striver's A2Z DSA Course 🚀  
+# DSA Course 🚀  
 
 This repository contains my solutions, notes, and progress as I go through **Striver’s A2Z DSA Course**.  
 The aim of this repo is to **practice consistently**, **improve problem-solving skills**, and build a strong foundation in **Data Structures & Algorithms**.  
@@ -10,23 +10,23 @@ The aim of this repo is to **practice consistently**, **improve problem-solving 
 The A2Z DSA Course is structured step by step, starting from basics and going all the way up to advanced concepts.  
 
 ### Topics Covered:
-1. **Basics of Programming**
-2. **Arrays & Strings**
-3. **Recursion**
-4. **Sorting Techniques**
-5. **Binary Search**
-6. **Bit Manipulation**
-7. **Linked List**
-8. **Stack & Queue**
-9. **Hashing**
-10. **Recursion & Backtracking**
-11. **Binary Trees**
-12. **Binary Search Trees**
-13. **Greedy Algorithms**
-14. **Dynamic Programming**
-15. **Graphs**
+1. **Learn the basics**
+2. **Learn the important sorting techniques**
+3. **Arrays**
+4. **Binary Search**
+5. **Strings**
+6. **Linked List**
+7. **Recursion**
+8. **Bit manipulation**
+9. **Stack and Queues**
+10. **sliding window and two pointer**
+11. **Heap**
+12. **Binary trees**
+13. **Binary search trees**
+14. **Graphs**
+15. **Dynamic Programming**
 16. **Trie**
-17. **Advanced Topics**
+17. **Strings Advanced**
 
 ---
 
