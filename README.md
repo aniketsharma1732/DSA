@@ -2,7 +2,6 @@
 
 This repository contains my solutions, notes, and progress as I go through **Striver’s A2Z DSA Course**.  
 The aim of this repo is to **practice consistently**, **improve problem-solving skills**, and build a strong foundation in **Data Structures & Algorithms**.  
-
 ---
 
 ## 📌 Course Roadmap  
@@ -36,23 +35,3 @@ The aim of this repo is to **practice consistently**, **improve problem-solving 
 - **Version Control:** Git & GitHub  
 
 ---
-
-## 📂 Repository Structure  
-
-```bash
-A2Z-DSA/
-│
-├── 01_Basics/
-│   ├── input_output.java
-│   └── patterns.java
-│
-├── 02_Arrays/
-│   ├── easy/
-│   ├── medium/
-│   └── hard/
-│
-├── 03_Recursion/
-│   ├── factorial.java
-│   └── fibonacci.java
-│
-└── ... (other topics will be added as I progress)
