@@ -3,7 +3,6 @@
 This repository contains my solutions, notes, and progress as I go through **Striver’s A2Z DSA Course**.  
 The aim of this repo is to **practice consistently**, **improve problem-solving skills**, and build a strong foundation in **Data Structures & Algorithms**.  
 ---
-
 ## 📌 Course Roadmap  
 ### 📘 Topics Covered 
 
